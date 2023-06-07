@@ -11,9 +11,11 @@
   "dependencies": {
     "esm": "^3.2.25",
     "franc-min": "^6.1.0",
+    "fs": "^0.0.1-security",
     "natural": "^6.5.0",
     "readline-sync": "^1.4.10",
-    "sentiment": "^5.0.2"
+    "sentiment": "^5.0.2",
+    "string-to-ascii": "^1.0.2-0"
   },
   "description": ""
 }
