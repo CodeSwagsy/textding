@@ -1,0 +1,19 @@
+{
+  "name": "textding",
+  "version": "1.0.0",
+  "main": "index.js",
+  "module": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "franc-min": "^6.1.0",
+    "natural": "^6.5.0",
+    "readline-sync": "^1.4.10",
+    "sentiment": "^5.0.2"
+  },
+  "description": ""
+}
